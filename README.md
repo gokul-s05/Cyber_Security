@@ -29,7 +29,6 @@ A collection of cybersecurity tools with both GUI and web (Streamlit) interfaces
 - [Pillow](https://python-pillow.org/) (PIL)
 - [opencv-python](https://pypi.org/project/opencv-python/)
 - [pyperclip](https://pypi.org/project/pyperclip/) (for clipboard in password checker)
-- [tkinter](https://wiki.python.org/moin/TkInter) (usually included with Python)
 
 Install dependencies with:
 
