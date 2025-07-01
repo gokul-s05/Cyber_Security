@@ -1,3 +1,9 @@
+"""
+A simple Caesar cipher implementation for the Streamlit Cybersecurity Tools Demo.
+This module provides encryption and decryption functionality using the Caesar cipher algorithm.
+No GUI dependencies required - designed to work with Streamlit's web interface.
+"""
+
 def caesar_cipher_encrypt_decrypt(text, shift, mode):
     """
     Encrypt or decrypt text using Caesar cipher
